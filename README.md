@@ -1,1 +1,1 @@
-Here, I implement some machine learning algorithms.
+Here, I explain and implement some machine learning algorithms.
