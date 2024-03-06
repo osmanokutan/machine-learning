@@ -1,1 +1,1 @@
-Here, I explain and implement some machine learning algorithms.
+In this GitHub repository, I delve into classical machine learning algorithms, offering detailed explanations and practical implementations using Python and Jupyter Notebooks. Including Decision Trees, Random Forests, Boosting techniques, Support Vector Machines, Clustering, and more, I provide comprehensive and rigorous insights to enhance understanding of their mathematical underpinnings and operational algorithms.
